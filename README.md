@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Erfan
-**Fullstack Developer** passionate about building modern and responsive web applications.
+**Front-End Developer** passionate about building modern and responsive web applications.
 
 ---
 
 ## 🛠 Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Redux  
-- **Backend:** Node.js  
 - **Tools & Others:** Git, GitHub, VS Code
-- **Currently Learning:** Node.js, Next.js
+- **Currently Learning:** Next.js
 ---
 
 ## 🚀 Projects
