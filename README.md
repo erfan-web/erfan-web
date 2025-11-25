@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 
-  <a href="https://t.me/erfanahmadi">
+  <a href="https://t.me/erfan_ahmady">
     <img src="https://img.shields.io/badge/Telegram-f5f5f5?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
 
