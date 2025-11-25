@@ -2,28 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # آپدیت هر 12 ساعت
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # هر ۱۲ ساعت
+  workflow_dispatch:          # اجرای دستی
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake Animation
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: erfan-web
-          animation_duration: 12          # سرعت متعادل (نه تند، نه کند)
-          color_snake: "#00bfff"          # آبی روشن مخصوص SVG
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
