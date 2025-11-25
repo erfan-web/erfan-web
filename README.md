@@ -15,23 +15,23 @@
 <br/>
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/erfan-dev">
+  <a href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-dev)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/erfan-web">
+  <a href="[![GitHub](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/erfan-web)">
     <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 
-  <a href="https://t.me/erfan_ahmady">
+  <a href="[![Telegram](https://img.shields.io/badge/Telegram-f5f5f5?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/erfan_ahmady)">
     <img src="https://img.shields.io/badge/Telegram-f5f5f5?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
 
-  <a href="mailto:erfan.dev85@gmail.com">
+  <a href="[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:erfan.dev85@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a href="https://www.instagram.com/erfanahmadi.dev">
+  <a href="[![Instagram](https://img.shields.io/badge/Instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/erfanahmadi.dev)">
     <img src="https://img.shields.io/badge/Instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=ffffff" />
   </a>
 
