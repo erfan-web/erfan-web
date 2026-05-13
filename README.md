@@ -82,7 +82,7 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,redux,tailwind,bootstrap,scss,html,css," width="700"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,mysql,redux,tailwind,bootstrap,scss,html,css,figma" width="700"  />
 </p>
 
 <p align="center">
