@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">MERN Stack Developer with a strong focus on modern web applications.</h3>
+<h3 align="center">Frontend Developer with a strong focus on modern web applications.</h3>
 <p align="center">
   I'm currently improving my <b>English skills</b><br/>
   <sub>Explore, Learn, Enjoy.</sub>
@@ -92,6 +92,6 @@
 
 <p align="center">
   ⭐ If you like my projects, feel free to give a star on GitHub!<br/>
-  💬 Connect with me on <a href="https://www.linkedin.com/in/erfan-dev">LinkedIn</a> or send me a message.<br/>
+  💬 Connect with me on <a href="https://www.linkedin.com/in/erfanahmadyi">LinkedIn</a> or send me a message.<br/>
   🙏 Thanks for visiting my profile!
 </p>
