@@ -6,9 +6,8 @@
 </h1>
 
 
-<h3 align="center">Frontend Developer with a strong focus on modern web applications.</h3>
+<h3 align="center">Frontend Developer</h3>
 <p align="center">
-  I'm currently improving my <b>English skills</b><br/>
   <sub>Explore, Learn, Enjoy.</sub>
 </p>
 
